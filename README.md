@@ -1,4 +1,4 @@
-# Messanger
+# Messanger app
 
 A new Flutter project.
 
